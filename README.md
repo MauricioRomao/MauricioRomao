@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://mauricioromao.github.io/assets/img/me/IMG_9222.webp"  />
+  <img height="150" src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png"  />
 </div>
 
 ###
