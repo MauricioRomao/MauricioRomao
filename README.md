@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Mauricio Romão, from Angola.<br><br>- 🔭 I’m working as a web developer.<br>- 📚 I'm currently learning advanced web development and cloud technologies.<br>- ⚡ In my free time, I enjoy exploring new tech, gaming, and photography.</p>
+<p align="left">I'm Mauricio Romão, from Angola.<br><br>- 🔭 I’m working as a web developer.<br>- 📚 I'm currently learning advanced web development and cloud technologies.<br>- ⚡ In my free time, I enjoy exploring new tech, gaming, and write songs.</p>
 
 ###
 
