@@ -10,7 +10,7 @@ Passionate about building reliable APIs, clean architectures and high-performanc
 Open to collaborations, freelance projects and software engineering opportunities.
 
 📧 [devmauroromao@gmail.com](mailto:devmauroromao@gmail.com)
-💼 LinkedIn: linkedin.com/in/seu-linkedin
+💼 LinkedIn: https://ao.linkedin.com/in/maurorom%C3%A3o-bb4377257
 🐦 Twitter/X: twitter.com/seu-twitter
 
 
